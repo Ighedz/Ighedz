@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ighedz
 - 👀 I’m interested in Healthcare and Tech
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ighedosapromisei@gmail.com
+- 📫 How to reach me: ighedosapromisei@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Love music
 
